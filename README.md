@@ -34,12 +34,12 @@ Run the Docker container:
 
 3. RUN the DOCKER from your downloaded repository(mine Linux_Alpine_C_CPP_Dev)
 
-docker run -it --rm -v "%cd%:/src" cpp-dev-alpine bash
+docker run -it --rm -v "%cd%:/src" cpp-dev-alpine bash 
 
 4- Usage
-All the tools packaged with Dockerfile are available for C++ compilation and buid
+All the tools packaged with Dockerfile are available for C++ compilation and buid 
 5- License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details. 
 
 Note :
 This `README.md` provides a comprehensive overview of the project, setup instructions, usage guidelines, and customization options. Let me know if there's anything specific you'd like to add or modify! 
